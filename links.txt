@@ -2,3 +2,4 @@ https://zen.yandex.ru/media/id/5c9f45c021a86300b4ca4e7a/pechenki-ot-oracle-ekspo
 http://khpi-iip.mipk.kharkiv.edu/library/extent/dbms/db2sqlxml/xmltable.html
 https://www.viralpatel.net/oracle-xmltable-tutorial/
 https://msiter.ru/tutorials/uchebnik-xml-dlya-nachinayushchih/xml-i-xquery
+https://docs.basex.org/wiki/XQuery
